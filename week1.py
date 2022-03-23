@@ -7,4 +7,3 @@ plt.style.use('seaborn')
 plt.scatter(x,y,marker=".",s=100,edgecolors="black",c="yellow")
 plt.title("Excel sheet to Scatter Plot")
 plt.show()
-gi
